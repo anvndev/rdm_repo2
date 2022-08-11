@@ -184,17 +184,21 @@ There are different prefetching and preloading techniques that you can use to gi
 Consider the following performance optimization techniques:
 
 DNS prefetching. You can tell the browser that certain domain names will need to be resolved to an IP address before the browser actually sees resources from that domain name. This can seem like a small optimization, but it can make a difference when you have exhausted other techniques.
-
+````````````
 <link rel="dns-prefetch" href="//sematext.com">
+``````````````
 TCP preconnect. Much like the DNS prefetch method, preconnect will resolve the DNS but it will also make the TCP handshake, and optionally the TLS negotiation.
-
+```````````````
 <link rel="preconnect" href="https://www.sematext.com">
+```````````````````
 Prefetching. If we’re certain that a specific resource will be required in the future, then we can ask the browser to request that item and store it in the cache for reference later.
-
+````````````````````
 <link rel="prefetch" href="logo.png">
+```````````````````
 Prerendering. This should be reserved for when you really know that the next step a user will take is to go to a certain page. You can instruct the browser to prerender the complete page, along with downloading all the required assets by specifying the URL like this:
-
+``````````````````
 <link rel="prerender" href="https://www.sematext.com/next-page">
+````````````````````
 12. Reduce the Number of Plugins
 Plugins are reusable pieces of functionality, usually used in content management systems like WordPress or other pre-built website platforms. Plugins give website owners additional functionality such as analytics or the ability to leave comments on blog posts.
 
