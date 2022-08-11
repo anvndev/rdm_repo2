@@ -1,5 +1,3 @@
-# rdm_repo2
-#from anvndev.com
 14 Website Speed Optimization Tips: Techniques to Improve Performance and User Experience
 Amir Hadžić Amir Hadžić on June 18, 2021
 
@@ -222,5 +220,3 @@ Wrap Up
 Improving website performance can be challenging, especially with the vast differences in devices, connectivity, browsers, and operating systems, but it will have a significant positive impact on your business if your business relies on your website as one of the main channels for reaching your customers.
 
 Also, keep in mind that this is a process that doesn’t have a clearly defined start and endpoint. You don’t have to implement all of the suggested changes today. Spend some time looking into the monitoring tool results, make changes on the website, and then compare the performance before and after the changes.
-
-If you’re in the market for a tool to help you improve your website performance, definitely check out Sematext Cloud and its website monitoring tools. Sematext ensures end-to-end visibility into all the components of your application to help you maintain the performance and availability of your website. There’s a 14-day free trial for you to test-drive all its functionalities. Give it a try!
