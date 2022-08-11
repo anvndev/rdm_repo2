@@ -217,10 +217,9 @@ If you’re on the market for monitoring tools to help measure and improve websi
 Best Real User Monitoring Tools
 Best Synthetic Monitoring Tools
 Best Front-end Performance SaaS & Tools
-<br>
-Wrap Up
+
+## Wrap Up
 Improving website performance can be challenging, especially with the vast differences in devices, connectivity, browsers, and operating systems, but it will have a significant positive impact on your business if your business relies on your website as one of the main channels for reaching your customers.
 
-Also, keep in mind that this is a process that doesn’t have a clearly defined start and endpoint. You don’t have to implement all of the suggested changes today. Spend some time looking into the monitoring tool results, make changes on the website, and then compare the performance before and after the changes.
-<br>
+Also, keep in mind that this is a process that doesn’t have a clearly defined start and endpoint. You don’t have to implement all of the suggested changes today. Spend some time looking into the monitoring tool results, make changes on the website, and then compare the performance before and after the changes.<br>
 #Src:  Amir Hadžić Amir Hadžić
