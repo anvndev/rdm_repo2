@@ -20,7 +20,7 @@ Best Practices to Speed Up Your Website
 12. Reduce the Number of Plugins
 13. Use Website Caching
 14. Adopt Cloud-Based Website Monitoring
-
+```````````````````````
 Wrap Up
 In today’s digital world, everything comes down to speed. It doesn’t matter if you have the most complex and good-looking site if it takes forever to load. There are various reasons why your web pages may load slowly, but no matter the cause, today I’m going to show you some useful tips and techniques on how to improve your website performance and speedand ensure a smooth user experience.
 
@@ -218,8 +218,10 @@ Best Real User Monitoring Tools
 Best Synthetic Monitoring Tools
 Best Front-end Performance SaaS & Tools
 
+``````````````
 ## Wrap Up
 Improving website performance can be challenging, especially with the vast differences in devices, connectivity, browsers, and operating systems, but it will have a significant positive impact on your business if your business relies on your website as one of the main channels for reaching your customers.
 
 Also, keep in mind that this is a process that doesn’t have a clearly defined start and endpoint. You don’t have to implement all of the suggested changes today. Spend some time looking into the monitoring tool results, make changes on the website, and then compare the performance before and after the changes.<br>
+````````````````````````
 #Src:  Amir Hadžić Amir Hadžić
