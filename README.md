@@ -194,9 +194,9 @@ TCP preconnect. Much like the DNS prefetch method, preconnect will resolve the D
 Prefetching. If we’re certain that a specific resource will be required in the future, then we can ask the browser to request that item and store it in the cache for reference later.
 ````````````````````
 <link rel="prefetch" href="logo.png">
-```````````````````
+
 Prerendering. This should be reserved for when you really know that the next step a user will take is to go to a certain page. You can instruct the browser to prerender the complete page, along with downloading all the required assets by specifying the URL like this:
-``````````````````
+
 <link rel="prerender" href="https://www.sematext.com/next-page">
 ````````````````````
 12. Reduce the Number of Plugins
