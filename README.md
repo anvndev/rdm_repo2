@@ -1,6 +1,6 @@
-14 Website Speed Optimization Tips: Techniques to Improve Performance and User Experience
-Amir Hadžić Amir Hadžić on June 18, 2021
+### 14 Website Speed Optimization Tips: Techniques to Improve Performance and User Experience
 
+`````````````````````
 Why Is Page Speed Important
 What Affects Site Speed
 How to Measure Website Speed
@@ -20,6 +20,7 @@ Best Practices to Speed Up Your Website
 12. Reduce the Number of Plugins
 13. Use Website Caching
 14. Adopt Cloud-Based Website Monitoring
+```````````````
 Wrap Up
 In today’s digital world, everything comes down to speed. It doesn’t matter if you have the most complex and good-looking site if it takes forever to load. There are various reasons why your web pages may load slowly, but no matter the cause, today I’m going to show you some useful tips and techniques on how to improve your website performance and speedand ensure a smooth user experience.
 
@@ -216,7 +217,11 @@ If you’re on the market for monitoring tools to help measure and improve websi
 Best Real User Monitoring Tools
 Best Synthetic Monitoring Tools
 Best Front-end Performance SaaS & Tools
+```````````````
 Wrap Up
 Improving website performance can be challenging, especially with the vast differences in devices, connectivity, browsers, and operating systems, but it will have a significant positive impact on your business if your business relies on your website as one of the main channels for reaching your customers.
 
 Also, keep in mind that this is a process that doesn’t have a clearly defined start and endpoint. You don’t have to implement all of the suggested changes today. Spend some time looking into the monitoring tool results, make changes on the website, and then compare the performance before and after the changes.
+```````````````
+
+#Src:  Amir Hadžić Amir Hadžić
